@@ -4,7 +4,7 @@ import CustomButton from "common/CustomButton";
 
 const HomePage = () => {
   return (
-    <div className="w-full min-h-dvh bg-primary relative flex justify-center items-center border-2">
+    <div className="w-full min-h-dvh bg-primary relative flex justify-center items-center border-2 mt-0">
       <div className="bg-waves bg-center bg-cover bg-no-repeat h-3/4 w-full absolute bottom-11"></div>
       <div className="flex px-40 laptop:px-20 w-full tablet:flex-col tablet:items-center tablet:gap-20">
         <div className="text-white w-[60%] tablet:w-full tablet:text-center">
